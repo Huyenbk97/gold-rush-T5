@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C23BC079-58FE-50BA-A034-5E1BE29AFEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro2.Demo", "ToonyColorsPro2.Demo.csproj", "{F5FB2EAC-6BD0-088D-BD33-FC05B152F570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Runtime", "ToonyColorsPro.Runtime.csproj", "{F1F0974B-6384-09B5-DE1A-4483A47BC5E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Editor", "ToonyColorsPro.Editor.csproj", "{678A38F1-337E-7321-DC7A-7BDDA6C43752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C23BC079-58FE-50BA-A034-5E1BE29AFEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23BC079-58FE-50BA-A034-5E1BE29AFEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23BC079-58FE-50BA-A034-5E1BE29AFEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23BC079-58FE-50BA-A034-5E1BE29AFEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FB2EAC-6BD0-088D-BD33-FC05B152F570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FB2EAC-6BD0-088D-BD33-FC05B152F570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FB2EAC-6BD0-088D-BD33-FC05B152F570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FB2EAC-6BD0-088D-BD33-FC05B152F570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F0974B-6384-09B5-DE1A-4483A47BC5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F0974B-6384-09B5-DE1A-4483A47BC5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F0974B-6384-09B5-DE1A-4483A47BC5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F0974B-6384-09B5-DE1A-4483A47BC5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678A38F1-337E-7321-DC7A-7BDDA6C43752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678A38F1-337E-7321-DC7A-7BDDA6C43752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678A38F1-337E-7321-DC7A-7BDDA6C43752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678A38F1-337E-7321-DC7A-7BDDA6C43752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
